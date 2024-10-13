@@ -9,3 +9,5 @@ from .vanilla_template import *
 from .openai_memory_template import *
 from .vanilla-ziyu import *
 from .scholar-ziyu import *
+from .sharu_agent import *
+from .sharu_sch_agent import *
